@@ -1,0 +1,17 @@
+Folder /home/data/ contains: 
+IF.txt
+Limerick-1.txt
+MSI_test.txt
+MSI_test2.txt
+
+Number of words in IF.txt: 291
+Number of words in Limerick-1.txt: 32
+Number of words in MSI_test.txt: 31
+Number of words in MSI_test2.txt: 7
+Total words in /data folder : 361
+
+Top 1 word: "If", number of count: 13
+Top 2 word: "you", number of count: 12
+Top 3 word: "can", number of count: 12
+
+IP address is : 172.17.0.2
